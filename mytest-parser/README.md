@@ -5,9 +5,9 @@ $ mvn clean install
 
 2. run jar
 $ java -jar mytest-parser-0.0.1-SNAPSHOT.jar \
- /home/gtftsdev/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testComma.txt \
- /home/gtftsdev/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testPipe.txt \
- /home/gtftsdev/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testSpace.txt \
+ /home/user/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testComma.txt \
+ /home/user/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testPipe.txt \
+ /home/user/Documents/eclipse.testProject/Mytest-Parser/src/test/resources/testSpace.txt \
  BIRTH_ASC
  
 
