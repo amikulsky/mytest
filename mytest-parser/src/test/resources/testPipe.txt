@@ -1,0 +1,10 @@
+LastName01 | FirstName01 | MALE | FavoriteColor01 | 05/11/2015
+LastName02 | FirstName02 | MALE | FavoriteColor02 | 05/12/2015
+LastName03 | FirstName03 | MALE | FavoriteColor03 | 05/13/2015
+LastName04 | FirstName04 | MALE | FavoriteColor04 | 05/14/2015
+LastName05 | FirstName05 | MALE | FavoriteColor05 | 05/15/2015
+LastName06 | FirstName06 | FEMALE | FavoriteColor06 | 05/16/2015
+LastName07 | FirstName07 | FEMALE | FavoriteColor07 | 05/17/2015
+LastName08 | FirstName08 | FEMALE | FavoriteColor08 | 05/18/2015
+LastName09 | FirstName09 | FEMALE | FavoriteColor09 | 05/19/2015
+LastName00 | FirstName00 | FEMALE | FavoriteColor00 | 05/10/2015
